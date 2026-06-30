@@ -1,5 +1,7 @@
 # OnRamps AI Lab 2026
 
+![OnRamps AI Lab 2026 Intro](images/onramps_project.png)
+
 ## From Passion to Product: Building AI Solutions with Microsoft AI
 
 Welcome to the OnRamps AI Lab 2026 repository.
@@ -79,7 +81,11 @@ OnRampsAILab_2026/
 │   │
 │   └── README.md
 │
+├── images/
+│
 ├── resources/
+│   ├── project_overview/
+│   └── weekly_deliverables/
 │
 └── README.md
 ```
