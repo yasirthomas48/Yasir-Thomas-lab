@@ -38,21 +38,51 @@ The focus of this project is problem solving and solution design rather than adh
 
 ---
 
+---
+
+## Internship Cohorts
+
+This repository supports student projects from two internship programs participating in the OnRamps AI Lab 2026 experience.
+
+### CRI Interns
+College and Career Readiness Initiative (CRI) interns will complete the full OnRamps AI Lab project by researching artificial intelligence, identifying a real-world problem aligned with their interests, designing an AI-powered solution, building a prototype, documenting their work, and presenting their results during the final showcase.
+
+### SYEP Interns
+Summer Youth Employment Program (SYEP) interns will follow the same project framework, exploring how AI can be used to solve meaningful problems through research, solution design, prototyping, documentation, and presentation.
+
+Both cohorts are encouraged to apply creativity, critical thinking, collaboration, and responsible AI practices throughout their project journey while learning how AI can be used to create positive impact.
+
+---
+
 ## Repository Structure
 
 ```text
 OnRampsAILab_2026/
 │
-├── students/
+├── cri/
 │   ├── student-name/
-│   │   ├── ai-research/
+│   │   ├── ai-agent-research/
 │   │   ├── problem-research/
 │   │   ├── solution-design/
 │   │   ├── project/
 │   │   ├── documentation/
 │   │   └── presentation/
+│   │
+│   └── README.md
+│
+├── syep/
+│   ├── student-name/
+│   │   ├── ai-agent-research/
+│   │   ├── problem-research/
+│   │   ├── solution-design/
+│   │   ├── project/
+│   │   ├── documentation/
+│   │   └── presentation/
+│   │
+│   └── README.md
 │
 ├── resources/
+│
 └── README.md
 ```
 
